@@ -2,6 +2,7 @@
 ## <p align="center">🎓 Holberton School - Lille</p>
 
 ⚪️ **0-simple_web_stack**
+![](https://i.imgur.com/MQkHi4L.png)
 - *What is a server* : A server is a computer, a software program, or a virtual machine that provides services or resources to other computers or devices, known as clients. Servers are designed to respond to requests from clients, such as web browsers, and fulfill those requests by providing data or functionality
 - *What is the role of the domain name* : A domain name is a human-readable address used to access resources on the internet. Its primary role is to map easily memorable domain names to IP addresses, making it simpler for users to navigate the web. It serves as a user-friendly identifier for websites and other services hosted on the internet
 - *What type of DNS record www is in `www.foobar.com`* : The DNS record `www` in `www.foobar.com` is typically a **CNAME** (Canonical Name) record. It is used to map the subdomain `www` to the primary domain `foobar.com` indicating that the website is accessible via the `www` subdomain
