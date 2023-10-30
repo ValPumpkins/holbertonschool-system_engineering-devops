@@ -2,4 +2,4 @@
 ## <p align="center">🎓 Holberton School - Lille</p>
 
 ⚪️ **0-simple_web_stack**
-![](https://i.imgur.com/MQkHi4L.png)
+![](https://i.imgur.com/4sZ3MxA.png)
