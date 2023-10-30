@@ -7,3 +7,8 @@
 🟣 **1-distributed_web_infrastructure**
 ![](https://i.imgur.com/1afnlGe.png)
 
+🟢 **2-secured_and_monitored_web_infrastructure**
+![](https://i.imgur.com/KvWMvTx.jpg)
+
+🔴 **3-scale_up**
+
